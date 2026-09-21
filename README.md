@@ -64,6 +64,11 @@ A WearOS / Android Watch timetable application that brings your courses to your 
 
 ## 功能特性
 
+**极简APP**
+- 仅个位数MB大小
+- 功能齐全，可完全离线在手表管理课程
+- 无需手机配套APP
+
 **课表与学期**
 
 - 今天 / 学期 / 设置三页滑动
