@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="480" viewBox="0 0 480 480" role="img">
+    <title>腕上星课表</title>
+    <desc>星澪Star_ZER0</desc>
+    <rect x="0" y="0" width="480" height="480" rx="120" fill="#101526" />
+    <defs>
+        <mask id="cutout" maskUnits="userSpaceOnUse" x="0" y="0" width="480" height="480"
+            style="mask-type:luminance">
+            <rect width="480" height="480" fill="#FFFFFF" />
+            <path
+                d="M 326 260 C 332 299 344 311 380 320 C 344 329 332 341 326 380 C 317 341 305 329 269 320 C 305 311 317 299 326 260 Z"
+                fill="#000000" stroke="#000000" stroke-width="18.33333333" stroke-linejoin="round" />
+        </mask>
+    </defs>
+    <g mask="url(#cutout)">
+        <g opacity="0.35">
+            <rect x="163.33333333" y="120" width="196.66666667" height="206.66666667"
+                rx="43.33333333" fill="#B8A4FF" />
+        </g>
+        <g opacity="0.65">
+            <rect x="141.66666667" y="136.66666667" width="196.66666667" height="206.66666667"
+                rx="43.33333333" fill="#B8A4FF" />
+        </g>
+        <g opacity="1">
+            <rect x="120" y="153.33333333" width="196.66666667" height="206.66666667"
+                rx="43.33333333" fill="#B8A4FF" />
+            <path
+                d="M 120 216.66666667 H 316.66666667 V 196.66666667 A 43.33333333 43.33333333 0 0 0 273.33333333 153.33333333 H 163.33333333 A 43.33333333 43.33333333 0 0 0 120 196.66666667 Z"
+                fill="#7C5CDE" />
+            <path d="M 170 140 V 180 M 260 140 V 180" fill="none" stroke="#E9E0FF" stroke-width="20"
+                stroke-linecap="round" />
+            <rect x="156.66666667" y="246.66666667" width="110" height="20" rx="10" fill="#292046" />
+            <rect x="156.66666667" y="293.33333333" width="76.66666667" height="20" rx="10"
+                fill="#292046" />
+        </g>
+    </g>
+    <path
+        d="M 326 260 C 332 299 344 311 380 320 C 344 329 332 341 326 380 C 317 341 305 329 269 320 C 305 311 317 299 326 260 Z"
+        fill="#81CEFF" />
+</svg>
