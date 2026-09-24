@@ -29,6 +29,7 @@ A WearOS / Android Watch timetable application that brings your courses to your 
 [![License](https://img.shields.io/badge/license-closed%20source%20for%20now-E8833A?style=flat-square)](#开源状态)
 [![Status](https://img.shields.io/badge/status-active%20development-brightgreen?style=flat-square)](https://github.com/Star-ZER0/WearStarSchedule/releases)
 [![Issues](https://img.shields.io/github/issues/Star-ZER0/WearStarSchedule?style=flat-square&logo=github&label=feedback)](https://github.com/Star-ZER0/WearStarSchedule/issues)
+[![QQ Group](https://img.shields.io/badge/QQ%20Group-1124571903-12B7F5?style=flat\&logo=qq\&logoColor=white)](https://qm.qq.com/q/hfBDpyJkeO)
 
 </div>
 
