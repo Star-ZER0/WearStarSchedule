@@ -41,10 +41,10 @@ A WearOS / Android Watch timetable application that brings your courses to your 
 
 当前仓库不包含源代码，仅作为产品主页使用：版本发布与更新说明、功能文档、问题反馈与讨论都在这里进行。
 
-- **后续有机会会开源。** 一旦具备开源条件，会选择合适的许可证公开源码，并在 Releases 与本页公告中说明。
+- **后续有可能会开源。** 一旦具备开源条件，会选择AGPL-3.0公开源码，并在 Releases 与本页公告中说明。
 - 在此期间，欢迎提交问题反馈、功能建议与适配信息（机型 / 屏幕形状 / 系统版本）。你的反馈会直接影响后续版本的优先级。
 
-> 如果你需要反馈问题，请通过 [Issues](https://github.com/Star-ZER0/WearStarSchedule/issues) 提出。
+> 如果你需要反馈问题，请通过 [Issues](https://github.com/Star-ZER0/WearStarSchedule/issues) 提出，中国大陆用户可以加入QQ群进行反馈，但优先使用GitHub Issues。
 
 ---
 
